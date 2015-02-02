@@ -10,7 +10,7 @@ French documentation available on my blog :
 http://blog.gamb.fr/index.php?post/2013/03/01/VirtualHosts-Apache-%3A-Un-script-pour-g%C3%A9n%C3%A9rer-les-fichiers-de-conf
 
 
-
+|                      |                                          |
 |:---------------------|:-----------------------------------------|
 | **Author:**          | Gilian Gambini (<gamb@gamb.fr>)
 | **Copyright:**       | 
