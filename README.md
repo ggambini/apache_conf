@@ -1,5 +1,5 @@
 # apache_conf
-Web based tool to generate Apache Vhost config. This tool can use to learn Apache config syntax with ajax interactions.
+Web based tool to generate Apache Vhost config. This tool can use to learn step-by-step Apache syntax with ajax interactions.
 
 ### Demonstration
 You can test vanilla version of apache_conf here :
@@ -15,5 +15,5 @@ http://blog.gamb.fr/index.php?post/2013/03/01/VirtualHosts-Apache-%3A-Un-script-
 |                      |                                          |
 |:---------------------|:-----------------------------------------|
 | **Author:**          | Gilian Gambini (<gamb@gamb.fr>)
-| **Copyright:**       | 
+| **Copyright:**       | Gamb
 | **License:**         | AGPL v3, see the COPYING file.
