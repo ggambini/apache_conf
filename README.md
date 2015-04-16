@@ -16,4 +16,4 @@ http://blog.gamb.fr/index.php?post/2013/03/01/VirtualHosts-Apache-%3A-Un-script-
 |:---------------------|:-----------------------------------------|
 | **Author:**          | Gilian Gambini (<gamb@gamb.fr>)
 | **Copyright:**       | Gamb
-| **License:**         | AGPL v3, see the COPYING file.
+| **License:**         | AGPL v3, see the LICENSE file.
